@@ -6,6 +6,9 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+#wrangler
+wrangler.toml
+
 # Node.js
 node_modules/
 dist/
